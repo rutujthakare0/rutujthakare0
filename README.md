@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rutujthakare0
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data structures and Algorithms using C++.
+- 🌱 I’m currently learning Data structures and Algorithms in C++.
 
 <!---
 rutujthakare0/rutujthakare0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
